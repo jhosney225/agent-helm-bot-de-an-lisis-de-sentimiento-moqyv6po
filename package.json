@@ -1,0 +1,6 @@
+{
+  "name": "agent-helm-bot-de-an-lisis-de-sentimiento-moqyv6po",
+  "version": "1.0.0",
+  "description": "Proyecto de Helm [Gen3]: bot de análisis de sentimiento de texto",
+  "main": "index.js"
+}
